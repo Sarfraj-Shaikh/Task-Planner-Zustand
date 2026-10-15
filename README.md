@@ -2,7 +2,9 @@
 
 <img width="1672" height="941" alt="Task Planner React Live Build" src="https://github.com/user-attachments/assets/a0aa4389-24ae-4f48-856a-2c43835ee07d" />
 
-Welcome to the **Task Planner Website** project! 🚀
+---
+
+## Welcome to the **Task Planner Website** project! 🚀
 
 This project was built during a live coding session on my YouTube channel, **Work With Sarfraj**. We completed the project on the same day, but due to an unexpected interruption during the live stream, the session had to be continued in a second live stream.
 
